@@ -1,0 +1,22 @@
+.weather-dashboard {
+    background-color: #f0f8ff;
+    color: #333;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.weather-dashboard h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.weather-dashboard .temperature {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.weather-dashboard .conditions {
+    font-size: 18px;
+    margin-top: 10px;
+}
